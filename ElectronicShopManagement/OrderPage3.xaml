@@ -1,0 +1,30 @@
+﻿<Page x:Class="ElectronicShopManagement.OrderPage3"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ElectronicShopManagement"
+        mc:Ignorable="d"
+        Title="Orders" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnOrdWiz" Click="BtnOrdWiz_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="117" Margin="10,12,0,0"  Content="Make Order"/>
+
+        <ListView Grid.Row="1" Name="LvOrders" SelectionMode="Single" Margin="10,47,10,10" SelectionChanged="LvOrders_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="75" DisplayMemberBinding="{Binding OrderId}" />
+                    <GridViewColumn Header="Customer Name" Width="170"  DisplayMemberBinding="{Binding CustName}" />
+                    <GridViewColumn Header="Product Name" Width="170" DisplayMemberBinding="{Binding ProdName}" />
+                    <GridViewColumn Header="Price"  Width="100" DisplayMemberBinding="{Binding PriceAtPurchase}" />
+                    <GridViewColumn Header="Qty" Width="85" DisplayMemberBinding="{Binding OrderQty}" />
+                    <GridViewColumn Header="Total" Width="100"  DisplayMemberBinding="{Binding OrderTotal}" />
+                    <GridViewColumn Header="Order Date"  DisplayMemberBinding="{Binding OrderDate}" />
+                    <GridViewColumn Header="Employee" Width="170"  DisplayMemberBinding="{Binding EmpName}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="BtnInvoice" Click="BtnInvoice_Click" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="150,12,0,0"  Content="Make Invoice"/>
+       
+    </Grid>
+</Page>
