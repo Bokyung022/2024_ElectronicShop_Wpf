@@ -1,4 +1,5 @@
 # Electronic Shop Management
+Authors: Bo Kyung Kim, Xing Huang, Xiaoli Feng / John Abbott College FSD-10
 
 ## Introduction
 
@@ -31,17 +32,17 @@ This application is built using the following technologies and frameworks:
 
 ## Screenshot - Home
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Home.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Home.jpg" width="600"/>
 
 ## Screenshot - Orders/Order Wizard
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Orders.jpg" width="500"/>
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Order Wizard.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Orders.jpg" width="600"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Order Wizard.jpg" width="600"/>
 
 ## Screenshot - Report
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Reports.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Reports.JPG" width="600"/>
 
 ## Screenshot - Invoice
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="350"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="450"/>
