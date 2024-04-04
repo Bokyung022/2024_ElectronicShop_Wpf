@@ -40,7 +40,7 @@ This application is built using the following technologies and frameworks:
 
 ## Screenshot - Invoice
 
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="200"/>
 
 ## Screenshot - Report
 
