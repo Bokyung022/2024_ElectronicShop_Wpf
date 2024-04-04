@@ -38,10 +38,10 @@ This application is built using the following technologies and frameworks:
 <img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Orders.jpg" width="500"/>
 <img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Order Wizard.jpg" width="500"/>
 
-## Screenshot - Invoice
-
-<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="350"/>
-
 ## Screenshot - Report
 
 <img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Reports.JPG" width="500"/>
+
+## Screenshot - Invoice
+
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="350"/>
