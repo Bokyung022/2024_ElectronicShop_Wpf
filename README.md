@@ -1,44 +1,33 @@
-# JustSell - Real Estate Web Application
-
-## Application Url
-
-https://justsell.netlify.app/
+# Electronic Shop Management
 
 ## Introduction
 
-Welcome to JustSell, a web-based Real Estate platform, enabling users to browse, search, and securely purchase properties online, while empowering realtors with comprehensive CRUD based property listing management capabilities.
+The Electronic Shop Management System is a comprehensive software solution designed to streamline the management of electronic shops. It offers a user-friendly interface tailored for administrators and employees alike, enabling efficient inventory management, order processing, and customer information management.
 
-## Features
-
-- User Authentication and Authorization: Implement a secure user authentication system, allowing users to register, log in, and access personalized features.
-- Responsive Design: Prioritize creating a responsive and mobile-friendly design.
-- Property Listing and Details: Develop an organized interface for displaying property listings. Each property has a details page showing relevant information, such as images, descriptions, and specifications.
-- Search and Filter Functionality: Implement a search and filter functionality to enable users to find specific properties based on criteria such as location, price range, or property type.
-- S3 Integration: Utilize Amazon S3 for efficient storage and retrieval of property images.
-- Online Payment: Implement secure online payments for property transactions using Stripe API.
-- Deployment: Deployment using Heroku for the Back-end and Netlify for the Front-end.
+Utilizing cutting-edge technologies such as WPF and C#, alongside a SQL Database hosted on Azure and Entity Framework with LINQ integration, the system ensures smooth and efficient data management. Additionally, the integration of additional libraries such as LiveChart, Extended WPF Toolkit, Material Design Toolkit, PdfSharpCore, and Stripe.NET enhances the system's functionality, providing advanced features and capabilities.
 
 ## Technology Stack
 
-This web application is built using the following technologies and frameworks:
+This application is built using the following technologies and frameworks:
 
-- React
-- NodeJS/Express
-- MySQL
-- Sequelize JS
-- Bootstrap
+- WPF
+- C#
+- .Net Framework
+- SQL Database via Azure
+- Entity Framework via LINQ
 
-## Additional Libraries
+## Features
 
-JustSell Web Application uses the following additional libraries:
-
-- Express
-- Cors
-- Nodemon
-- Axios
-- Bootstrap
-- Formik
-- Yup
+- User-friendly Interface: Design an intuitive interface with simple navigation to ensure easy access to all system functionalities.
+- Inventory Management: Enable adding, updating, and deleting products, with features to view details and monitor stock levels.
+- Customer Management: Develop a straightforward system for storing and retrieving customer information, facilitating personalized service and relationship management.
+- Product Categories and Filters: Introduce categorization and filtering options for easy product browsing.
+- Transaction Invoices: Include PDF printing for generating transaction invoices, ensuring professional documentation.
+- Sales Reporting: Integrate basic reporting to provide insights into sales performance.
+- Multiple Windows and Dialogs: Enhance navigation with multiple windows and dialogs.
+- UserControl for Conflict Minimization: Utilize UserControl to minimize conflicts and streamline the management of user interface components.
+- Extended Functionality: Enhance capabilities with Extended WPF Toolkit controls.
+- PDF Generation and Excel Export: Enable PDF generation and data export to Excel for comprehensive data management.
 
 ## Screenshot - Login
 
