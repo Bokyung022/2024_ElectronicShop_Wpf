@@ -29,27 +29,19 @@ This application is built using the following technologies and frameworks:
 - Extended Functionality: Enhance capabilities with Extended WPF Toolkit controls.
 - PDF Generation and Excel Export: Enable PDF generation and data export to Excel for comprehensive data management.
 
-## Screenshot - Login
+## Screenshot - Home
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Login.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Home.jpg" width="500"/>
 
-## Screenshot - Listings Page
+## Screenshot - Orders/Order Wizard
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Listings.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Orders.jpg" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Order Wizard.jpg" width="500"/>
 
-## Screenshot - Search/Filter
+## Screenshot - Invoice
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Search.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Invoice.JPG" width="350"/>
 
-## Screenshot - Create/Edit Property
+## Screenshot - Report
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Create%20Property.JPG" width="500"/>
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Edit%20Property.JPG" width="500"/>
-
-## Screenshot - Payment
-
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Payment.JPG" alt="Screenshot 1" width="500"/>
-
-## Screenshot - Admin Page
-
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Admin.JPG" width="500"/>
+<img src="https://github.com/Bokyung022/2024_ElectronicShop_Wpf/blob/main/ElectronicShopManagement/assets/Reports.JPG" width="500"/>
